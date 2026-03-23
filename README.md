@@ -32,7 +32,7 @@ Para rodar qualquer um dos exemplos localmente, você precisará do JDK 17 (ou s
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/maratona-java.git
+git clone https://github.com/jaaodev/maratona-java.git
 Entre na pasta do projeto:
 
 Bash
