@@ -1,8 +1,7 @@
 package Kpolimorfismo.service;
 
-import javacore.Kpolimorfismo.domain.Computador;
-import javacore.Kpolimorfismo.domain.Produto;
-import javacore.Kpolimorfismo.domain.Tomate;
+import Kpolimorfismo.domain.Produto;
+import Kpolimorfismo.domain.Tomate;
 
 public class CalculadorImposto {
 
